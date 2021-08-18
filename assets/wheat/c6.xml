@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wheat</folder>
+	<filename>c6.png</filename>
+	<path>/Users/emericbayard/Dropbox/Projet/minobot/assets/wheat/c6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2246</width>
+		<height>1552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1426</xmin>
+			<ymin>836</ymin>
+			<xmax>1616</xmax>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+</annotation>
